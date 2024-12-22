@@ -8,6 +8,6 @@ Technologies:
 - GIMP, Autodesk Sketchbook
 
 #### License  
-This project is protected under a custom license.
-All files are the sole property of the developer. Unauthorized use, distribution, or modification of these files is strictly prohibited.  
+Copyright (C) 2024 Riya Hal
+All rights reserved.
 
