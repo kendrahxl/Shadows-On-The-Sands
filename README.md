@@ -9,5 +9,3 @@ Technologies:
 
 #### License  
 Copyright (C) 2024 Riya Hal
-All rights reserved.
-
