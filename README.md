@@ -8,4 +8,4 @@ Technologies:
 - GIMP, Autodesk Sketchbook
 
 #### License  
-Copyright (C) 2024 Riya Hal
+Copyright (C) 2024 Kendra
